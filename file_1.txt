@@ -1,1 +1,1 @@
-Add file_1.txt
+fix bugs file_1.txt
